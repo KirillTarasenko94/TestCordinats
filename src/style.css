@@ -1,0 +1,10 @@
+#container {
+  width: 1000px;
+  height: 800px;
+  border: 1px solid #141313;
+  position: relative;
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+}
+
+
