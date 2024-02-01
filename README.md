@@ -1,0 +1,1 @@
+Task: Develop functionality that efficiently arranges rectangular blocks in a rectangular 2D container. The arrangement of blocks in the container should be as dense as possible to optimize the use of the container space.
